@@ -1,0 +1,68 @@
+{
+    "Basics": [
+        { "id": 1093,"item-name": "Breast-pumps", "org-price": "$103", "dis-price": "$73"},
+        { "id": 1094,"item-name": "Sterilizers & warmers" },
+        { "id": 1095,"item-name": "Feeding spoons and Plates" },
+        { "id": 1096,"item-name": "Baby reusable diapers" },
+        { "id": 1097,"item-name": "Feeding bottles and sippy cups" },
+        { "id": 1098,"item-name": "Silicone Accessories" },
+        { "id": 1099,"item-name": "Soft toys and soft toy blankets" },
+        { "id": 1100,"item-name": "Baby Combos" },
+        { "id": 1101,"item-name": "Medicine Feeder" }
+    ],
+    "Skincare":  [
+        { "id": 1102,"item-name": "Baby Lotions" },
+        { "id": 1103,"item-name": "Baby creams" },
+        { "id": 1104,"item-name": "Baby Soaps" },
+        { "id": 1105,"item-name": "Body Wash " },
+        { "id": 1106,"item-name": "Baby Shampoos" }
+    ],
+    "Gears": [
+        { "id": 1107,"item-name": "Strollers and Prams" },
+        { "id": 1108,"item-name": "High Chairs" },
+        { "id": 1109,"item-name": "Baby Walkers" },
+        { "id": 1110,"item-name": "Safety Equipments" },
+        { "id": 1111,"item-name": "Playpen & Play Mat" },
+        { "id": 1112,"item-name": "Storage & Cupboard" },
+        { "id": 1113,"item-name": "Bathtubs & Bathseats" },
+        { "id": 1114,"item-name": "Potty Training Seat" }
+    ],
+    "Nursery": [
+        { "id": 1115,"item-name": "Cradle Swing" },
+        { "id": 1116,"item-name": "Rockers & Bouncers" },
+        { "id": 1117,"item-name": "Bed Crib Cot" },
+        { "id": 1118,"item-name": "Bedding Sets & Pillows" },
+        { "id": 1119,"item-name": "Cot Mattress & Bed Sheet" },
+        { "id": 1120,"item-name": "Swaddles & Blankets" }
+    ],
+    "Toy World": [
+        { "id": 1121,"item-name": "Toy Vehicles" },
+        { "id": 1122,"item-name": "Action Figures" },
+        { "id": 1123,"item-name": "Board Games" },
+        { "id": 1124,"item-name": "Dolls & Doll Houses" },
+        { "id": 1125,"item-name": "Educational Toys" },
+        { "id": 1126,"item-name": "Indoor & Outdoor Toys" },
+        { "id": 1127,"item-name": "Musical Toys" },
+        { "id": 1128,"item-name": "Planes & Helicopters" },
+        { "id": 1129,"item-name": "Puzzles" },
+        { "id": 1130,"item-name": "Remote Control Toys" },
+        { "id": 1131,"item-name": "Baby Soft Toys" },
+        { "id": 1132,"item-name": "Stem Toys" },
+        { "id": 1132,"item-name": "Wooden Toys" },
+        { "id": 1132,"item-name": "Toy Guns" }
+    ],
+    "Kids": [
+        { "id": 1133,"item-name": "Kids Study Tables" },
+        { "id": 1134,"item-name": "Battery Operated Cas & Bikes" },
+        { "id": 1135,"item-name": "Trampoline" },
+        { "id": 1136,"item-name": "Scooters" },
+        { "id": 1137,"item-name": "Tricycles" },
+        { "id": 1138,"item-name": "Bicycles" },
+        { "id": 1139,"item-name": "School Supplies" },
+        { "id": 1140,"item-name": "Slides & Swings " },
+        { "id": 1141,"item-name": "Water Bottle & Slippers" },
+        { "id": 1142,"item-name": "School Bags" },
+        { "id": 1143,"item-name": "Swing Cars" },
+        { "id": 1144,"item-name": "Headphones & Watches" }
+    ]
+}
